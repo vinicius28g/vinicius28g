@@ -60,7 +60,5 @@ Se quiser conferir alguns dos meus trabalhos como desenvolvedor, dá uma olhada 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius28g&size_weight=0.5&count_weight=0.5&theme=radical&include_all_commits=true&langs_count=7&locale=PT-BR"
 />
 
-### 🐍 Snake com meus commits
-![snake gif](https://github.com/vinicius28g/vinicius28g/blob/output/github-contribution-grid-snake.svg)
 
 
